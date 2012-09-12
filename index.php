@@ -41,6 +41,7 @@
         <script type="text/javascript">
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-5837468-18']);
+            _gaq.push(['_setDomainName', 'nataliamartinez.com']);
             _gaq.push(['_trackPageview']);
 
             (function() {
